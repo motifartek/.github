@@ -18,7 +18,7 @@
   [![TEKNOFEST 2026](https://img.shields.io/badge/TEKNOFEST-2026_Yapay_Zeka_Ajanları-orange?style=for-the-badge)](https://www.teknofest.org)
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](LICENSE)
   [![Rust](https://img.shields.io/badge/Backend-Rust-red?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-  [
+
 </div>
 
 ---
