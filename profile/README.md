@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://github.com/motifartek"> <img src="./.github/assets/logo.png" alt="MotifAI Logo" width="360" /> </a>
+<a href="https://github.com/motifartek"> <img src="https://raw.githubusercontent.com/motifartek/.github/refs/heads/main/assets/logo.png" alt="MotifAI Logo" width="360" /> </a>
 
   <p align="center">
     <strong>Yerel (Offline), Ekstrem Hızlı ve Otonom Multimodal Video Analiz & Karar Destek Sistemi</strong>
